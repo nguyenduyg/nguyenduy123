@@ -9,5 +9,6 @@ namespace WindowsFormsApp1.Models
     internal class User
     {
         public int MSSV { get; set; }
+        public int ID { get; set; }
     }
 }
